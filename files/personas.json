@@ -1,0 +1,22 @@
+[
+    {"nombre": "Ana", "edad": 28, "ciudad": "Rosario"},
+    {"nombre": "Luis", "edad": 34, "ciudad": "Córdoba"},
+    {"nombre": "María", "edad": 22, "ciudad": "Buenos Aires"},
+    {"nombre": "Pedro", "edad": 45, "ciudad": "Mendoza"},
+    {"nombre": "Lucía", "edad": 31, "ciudad": "La Plata"},
+    {"nombre": "Jorge", "edad": 39, "ciudad": "San Juan"},
+    {"nombre": "Elena", "edad": 26, "ciudad": "Salta"},
+    {"nombre": "Carlos", "edad": 51, "ciudad": "Mar del Plata"},
+    {"nombre": "Julieta", "edad": 29, "ciudad": "Santa Fe"},
+    {"nombre": "Nicolás", "edad": 33, "ciudad": "Tucumán"},
+    {"nombre": "Sofía", "edad": 24, "ciudad": "Posadas"},
+    {"nombre": "Martín", "edad": 38, "ciudad": "Neuquén"},
+    {"nombre": "Valeria", "edad": 27, "ciudad": "Formosa"},
+    {"nombre": "Gustavo", "edad": 44, "ciudad": "Corrientes"},
+    {"nombre": "Paula", "edad": 30, "ciudad": "Resistencia"},
+    {"nombre": "Federico", "edad": 41, "ciudad": "San Luis"},
+    {"nombre": "Camila", "edad": 23, "ciudad": "Catamarca"},
+    {"nombre": "Andrés", "edad": 37, "ciudad": "Río Gallegos"},
+    {"nombre": "Laura", "edad": 32, "ciudad": "Ushuaia"},
+    {"nombre": "Ricardo", "edad": 49, "ciudad": "San Rafael"}
+]
