@@ -32,4 +32,10 @@ select * from user_api;
 desc table provincia_api;
 select * from provincia_api;
 
-drop tables ventas_xlsx, w_mean_prod_csv, personas_json, user_api, provincia_api ;
+desc table poke_api;
+select * from poke_api; 
+
+desc table precios_csv;
+select * from precios_csv;
+
+drop tables precios_csv, poke_api, ventas_xlsx, user_api, provincia_api, w_mean_prod_csv, personas_json, user_api, provincia_api ;
